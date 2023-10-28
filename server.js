@@ -1,8 +1,9 @@
 const http = require('http');
 const app = require('./app/app')
-require('./config/connectDB.JS')
+require('dotenv').config();
+require('./config/connectDB')
 
-const port = process.env.port || 2023
+const port = process.env.PORT || 2023
 
 // =======Server====
 const server = http.createServer();
