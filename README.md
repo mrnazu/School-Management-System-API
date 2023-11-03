@@ -5,7 +5,7 @@
 This project is a School Management System API that provides features to manage academic activities, such as student attendance records, grades, and lesson plans. 
 </div>
 
-<h6>Features</h6>
+<h3>Features</h3>
 🔹 Admin Authorization
 Description: This feature allows the admin to authorize teachers and staff to access the application. Only authorized users can log in and use the system.
 
@@ -26,7 +26,7 @@ Description: This feature adds an additional evaluation to exam results. Student
 
 These are some of the features that will be developed for the School Management System API.
 
-<h6>About Section</h6>
+<h3>About Section</h3>
 Inspiration: This project was inspired by our own experiences as students and the need for a comprehensive and efficient system to manage academic activities in schools. We wanted to create a solution that streamlines administrative tasks for educators and enhances the learning experience for students. This project is a Portfolio Project for ALX Africa Software engineering program, where we have been learning and honing our skills in software development.
 
 
