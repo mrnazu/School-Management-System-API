@@ -5,6 +5,13 @@
 This project is a School Management System API that provides features to manage academic activities, such as student attendance records, grades, and lesson plans. 
 </div>
 
+#### Application Architecture
+![image](https://github.com/mrnazu/School-Management-System-API/assets/108541991/26db1c3c-03f7-4a9e-8b89-4ae867373f15)
+
+#### MVC Design Pattern
+![image](https://github.com/mrnazu/School-Management-System-API/assets/108541991/ef9ea62b-e752-43ad-a190-de395e06ffa8)
+
+
 <h3>Features</h3>
 🔹 Admin Authorization
 Description: This feature allows the admin to authorize teachers and staff to access the application. Only authorized users can log in and use the system.
